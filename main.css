@@ -149,6 +149,17 @@ body {
     right: 30%;
 }
 
+.img-avt {
+    position: absolute;
+    bottom: 30px;
+    width: 150px;
+    animation: animateBalloon 1s ease-in-out infinite alternate;
+    z-index: 5;
+    left: 44%;
+    border-radius: 50%;
+    bottom: 140px;
+}
+
 .bannerParty {
     position: absolute;
     left: 50%;
