@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Chúc mừng sinh nhật Trần Thị Thanh Thảo " //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc bạn mạnh khỏe, an bình, hạnh phúc, thành công trong cuộc sống. Và đặc biệt mãi xinh đẹp :>>" //Nội dung của bức thư
+const contentLetterSrart_actived = "Chúc mừng sinh nhật em nha Phan Quỳnh Thương " //Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc em mạnh khỏe, an bình, hạnh phúc, thành công trong cuộc sống. Và đặc biệt mãi xinh đẹp :>>" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
