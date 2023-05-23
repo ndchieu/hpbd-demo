@@ -366,7 +366,7 @@ body {
         animation: animateBannerMobile 1s ease-in-out 1s infinite alternate;
     }
     .balloon {
-        bottom: 100px;
+        bottom: 180px;
         width: 100px;
     }
     .balloon1 {
@@ -374,6 +374,9 @@ body {
     }
     .balloon2 {
         right: 30px;
+    }
+    .img-avt {
+        left: 38%;
     }
     .content {
         width: 80%;
