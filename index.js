@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Chúc mừng sinh nhật của một người xinh đẹp nhất thế giới (tôi chưa có)" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Chúc mừng sinh nhật Trần Thị Thanh Thảo " //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc bạn mạnh khỏe, an bình, hạnh phúc, thành công trong cuộc sống. Và đặc biệt mãi xinh đẹp :>>" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
